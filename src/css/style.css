@@ -28,6 +28,8 @@ body {
     padding: 4px;
     border-radius: 5px;
     font-size: 30px; }
+  #home-section .card-body {
+    padding: 10px; }
 
 #explore-section .fa, #share-section .fa {
   color: #fff;

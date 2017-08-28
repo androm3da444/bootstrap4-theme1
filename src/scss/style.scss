@@ -44,6 +44,10 @@ body{
 		border-radius: 5px;
 		font-size: $icon-size;
 	}
+
+	.card-body{
+		padding: 10px;
+	}
 }
 
 #explore-section, #share-section{
